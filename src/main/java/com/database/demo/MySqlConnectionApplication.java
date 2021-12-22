@@ -1,10 +1,14 @@
 package com.database.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.jdbc.core.JdbcTemplate;
+
+import com.database.entity.Member;
+
 
 @SpringBootApplication
 public class MySqlConnectionApplication implements CommandLineRunner{
@@ -17,16 +21,16 @@ public class MySqlConnectionApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		String sql="INSERT INTO demodb(id,email,password) VALUES(?,?,?)";
-		int result=jdbcTemplate.update(sql,"1","kowsi@gmail.com","kowsi@123");
+		String sql="INSERT INTO member(id,uname,password,email,phone) VALUES(?,?,?,?)";
 		
-		if(result>0)
-		{
-			System.out.println("A new row has been inserted");
-			
-		}
+		Member member=new Member(1,"kowsi", "koko@7", "kowsi@gmail.com",984738547);
+        
+       
+            System.out.println("A new row has been inserted.");
+		
 				
 		
 	}
 
 }
+
