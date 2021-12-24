@@ -1,4 +1,4 @@
-package com.springboot.webapp;
+package com.launchclub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
