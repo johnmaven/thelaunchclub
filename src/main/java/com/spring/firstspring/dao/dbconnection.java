@@ -18,10 +18,10 @@ public class dbconnection {
 
 	                
 	                Properties settings = new Properties();
-	                settings.put(Environment.DRIVER, "com.mysql.cj.jdbc.Driver");
-	                settings.put(Environment.URL, "jdbc:mysql://localhost:3306/dbb");
+	                settings.put(Environment.DRIVER, "org.postgresql.Driver");
+	                settings.put(Environment.URL, "jdbc:postgresql://localhost:5432/thelaunchclub");
 	                settings.put(Environment.USER, "root");
-	                settings.put(Environment.PASS, "Kowsi@7");
+	                settings.put(Environment.PASS, "root");
 	                
 
 	                settings.put(Environment.SHOW_SQL, "true");
