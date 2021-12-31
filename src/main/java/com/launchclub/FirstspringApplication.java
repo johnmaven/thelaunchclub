@@ -1,11 +1,12 @@
 package com.launchclub;
 import java.util.List;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.spring.firstspring.dao.Student;
-import com.spring.firstspring.dao.StudentDao;
+import com.launchclub.dao.Student;
+import com.launchclub.dao.StudentDao;
 
 
 
