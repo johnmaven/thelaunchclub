@@ -1,4 +1,4 @@
-package com.nan.Auth;
+package com.lauchclub.auth;
 
 public class Login {
 	private String uname;
