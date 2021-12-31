@@ -1,4 +1,4 @@
-package com.nan.Auth;
+package com.launchclub.auth;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
