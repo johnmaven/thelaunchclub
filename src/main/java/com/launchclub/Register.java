@@ -1,4 +1,4 @@
-package com.nan.Auth;
+package com.launchclub.auth;
 
 public class Register {
 private String uname;
