@@ -1,0 +1,40 @@
+2021-12-28 17:53:54 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 12588 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-28 17:53:54 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-28 17:53:54 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-28 17:53:55 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.171 seconds (JVM running for 1.786)
+2021-12-28 17:54:10 [http-nio-8080-exec-2] DEBUG com.launchclub.HomeController -
+				This is a debug message
+2021-12-28 17:54:10 [http-nio-8080-exec-2] INFO  com.launchclub.HomeController -
+				This is an info message
+2021-12-28 17:54:10 [http-nio-8080-exec-2] WARN  com.launchclub.HomeController -
+				This is a warn message
+2021-12-28 17:54:10 [http-nio-8080-exec-2] ERROR com.launchclub.HomeController -
+				This is an error message
+2021-12-28 17:54:10 [http-nio-8080-exec-2] DEBUG com.launchclub.HomeController -
+				Request EswariNivethaVU
+2021-12-28 17:54:10 [http-nio-8080-exec-2] DEBUG com.launchclub.HomeController -
+				Response Hi EswariNivethaVU Welcome 
+2021-12-28 18:31:11 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 28508 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-28 18:31:11 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-28 18:31:11 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-28 18:31:12 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 0.971 seconds (JVM running for 1.511)
+2021-12-28 18:31:23 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				This is a debug message
+2021-12-28 18:31:23 [http-nio-8080-exec-1] INFO  com.launchclub.HomeController -
+				This is an info message
+2021-12-28 18:31:23 [http-nio-8080-exec-1] WARN  com.launchclub.HomeController -
+				This is a warn message
+2021-12-28 18:31:23 [http-nio-8080-exec-1] ERROR com.launchclub.HomeController -
+				This is an error message
+2021-12-28 18:31:23 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				Request EswariNivethaVU
+2021-12-28 18:31:23 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				Response Hi EswariNivethaVU Welcome 

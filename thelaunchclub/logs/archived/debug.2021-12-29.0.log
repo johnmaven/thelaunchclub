@@ -1,0 +1,94 @@
+2021-12-29 10:20:29 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 20912 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:20:29 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:20:29 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:22:04 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 28328 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:22:04 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:22:04 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:22:05 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.169 seconds (JVM running for 1.717)
+2021-12-29 10:22:27 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				This is a debug message
+2021-12-29 10:22:27 [http-nio-8080-exec-1] INFO  com.launchclub.HomeController -
+				This is an info message
+2021-12-29 10:22:27 [http-nio-8080-exec-1] WARN  com.launchclub.HomeController -
+				This is a warn message
+2021-12-29 10:22:27 [http-nio-8080-exec-1] ERROR com.launchclub.HomeController -
+				This is an error message
+2021-12-29 10:22:27 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				Request EswariNivethaVU
+2021-12-29 10:22:27 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				Response Hi EswariNivethaVU Welcome 
+2021-12-29 10:23:51 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 3092 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:23:51 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:23:51 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:23:52 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.104 seconds (JVM running for 1.64)
+2021-12-29 10:25:54 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 13972 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:25:54 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:25:54 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:25:54 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.074 seconds (JVM running for 1.697)
+2021-12-29 10:30:34 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 13652 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:30:34 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:30:34 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:30:35 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.106 seconds (JVM running for 1.69)
+2021-12-29 10:32:18 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 24832 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:32:18 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:32:18 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:32:19 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.145 seconds (JVM running for 1.66)
+2021-12-29 10:34:13 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 23804 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:34:13 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:34:13 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:34:14 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.126 seconds (JVM running for 1.727)
+2021-12-29 10:36:14 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 20472 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:36:14 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:36:14 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:36:14 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.09 seconds (JVM running for 1.675)
+2021-12-29 10:38:34 [main] INFO  com.launchclub.MyWebAppApplication -
+				Starting MyWebAppApplication using Java 17.0.1 on DESKTOP-U5U69BA with PID 1252 (C:\Users\EswariNivethaVU\git\thelaunchclub\target\classes started by EswariNivethaVU in C:\Users\EswariNivethaVU\git\thelaunchclub)
+2021-12-29 10:38:34 [main] DEBUG com.launchclub.MyWebAppApplication -
+				Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-29 10:38:34 [main] INFO  com.launchclub.MyWebAppApplication -
+				No active profile set, falling back to default profiles: default
+2021-12-29 10:38:34 [main] INFO  com.launchclub.MyWebAppApplication -
+				Started MyWebAppApplication in 1.105 seconds (JVM running for 1.655)
+2021-12-29 10:38:44 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				This is a debug message
+2021-12-29 10:38:44 [http-nio-8080-exec-1] INFO  com.launchclub.HomeController -
+				This is an info message
+2021-12-29 10:38:44 [http-nio-8080-exec-1] WARN  com.launchclub.HomeController -
+				This is a warn message
+2021-12-29 10:38:44 [http-nio-8080-exec-1] ERROR com.launchclub.HomeController -
+				This is an error message
+2021-12-29 10:38:44 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				Request EswariNivethaVU
+2021-12-29 10:38:44 [http-nio-8080-exec-1] DEBUG com.launchclub.HomeController -
+				Response Hi EswariNivethaVU Welcome 
